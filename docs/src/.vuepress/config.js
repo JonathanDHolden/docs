@@ -217,6 +217,7 @@ export default defineUserConfig({
           link: '/content/features/',
           collapsible: true,
           children: [
+            '/content/features/content-types',
             '/content/features/services',
             '/content/features/alert-banner',
             '/content/features/directories',
