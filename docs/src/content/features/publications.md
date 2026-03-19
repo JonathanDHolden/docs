@@ -11,7 +11,7 @@ See an example publication on [our demo site](https://demo.localgovdrupal.org/pu
 The following publications have been created by our councils already (feel free to add yours to the list!):
 - [Wirral Council's Tax explainer](https://www.wirral.gov.uk/council-tax/council-tax-explained)
 - [Bracknell Forest's co-production framework](https://www.bracknell-forest.gov.uk/council-and-democracy/strategies-plans-and-policies/co-production-framework)
-- [West Linsey's Countil Tax guide](https://www.west-lindsey.gov.uk/council-tax-council-bills/what-council-tax/council-tax-guide)
+- [West Linsey's Council Tax guide](https://www.west-lindsey.gov.uk/council-tax-council-bills/what-council-tax/council-tax-guide)
 - [Bracknell Forest's Council plan overview report
 ](https://www.bracknell-forest.gov.uk/council-and-democracy/strategies-plans-and-policies/service-planning-and-performance/council-plan-overview-report)
 - [Bracknell Forest's Holiday activities and food programme annual report](https://www.bracknell-forest.gov.uk/schools-and-learning/schools/holiday-activities-and-food-programme/annual-report)

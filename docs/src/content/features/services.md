@@ -137,7 +137,7 @@ You have lots of choices about where service status messages can be displayed:
 
 * on the service landing page where this service lives
 * on your organisation's overall service status list (at /service-status)
-* on specfic pages around your site, below the title and above the body copy for the page
+* on specific pages around your site, below the title and above the body copy for the page
 
 This means users will see this content before they start reading your page.
 

@@ -114,7 +114,7 @@ From here, click the _Add directory facets_ button and repeat the process until 
 | 11-16 years      | North Somewhere       |
 | 11-18 year   | South Somewhere        |
 
-### The cannel
+### The channel
 
 Next up let's create a 'Channel'. Remember, the purpose of this channel is to allow users to filter a list of secondary schools by age and location so they can find a school which meets their criteria. Here we're going to make use of the _Directory organisation_ content type, that comes out-of-the-box with LocalGov Drupal, to represent a school.
 
@@ -148,7 +148,7 @@ Finally, we can harness the power of the LocalGov Drupal location integration so
 
 The address should autocomplete if your site is configured to do so, and it will place the point on the map. If this is incorrect, or not found, you can place the point manually.
 
-Finally, scroll to the bottom fo the popup and click the _Save address_ button and then save the venue.
+Finally, scroll to the bottom of the popup and click the _Save address_ button and then save the venue.
 
 You'll probably want to repeat this process a few times, choosing different combinations of Facets and different addresses, in order to better understand how Directories work.
 
