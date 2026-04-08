@@ -12,7 +12,7 @@ Please see this video guide by content designer Ben Hills-Jones.
 
 ### Checking if Workflow is enabled
 
-There's an easy way to check if Workflow is enabled on your site. If you see a'Published' toggle and a 'Save' button, Workflow is not enabled.
+There's an easy way to check if Workflow is enabled on your site. If you see a 'Published' toggle and a 'Save' button, Workflow is not enabled.
 
 ![Workflow not enabled](https://github.com/user-attachments/assets/aaac5b81-61a6-4666-bcc9-448313abf2a2)
 
@@ -26,7 +26,7 @@ If you see a 'Current state' drop down menu in the sidebar, Workflow is enabled.
 * **Role**: A named set of permissions that can be applied to a user account. Depending on your role and your site's custom configuration, you may not be able to do all the actions on this page.
 * **Revision**: Drupal lets you create a new revision every time a piece of content is updated. This allows you to track how the piece of content has changed over time on your site. [Read more on drupal.org](https://www.drupal.org/docs/administering-a-drupal-site/node-revisions). One version will be the **current revision**, indicating which version is available to logged out users.
 * **State**: A revision can exist in one of a number of states (Draft, Needs review, Published, Archived). If the current revision is Published it is available to logged out users.
-* **Transitions**: Moving the current revision from one state to another is called a transitition. We can do this manaully by setting the state when we save a piece of content, or we can schedule a time for it to happen automatically.
+* **Transitions**: Moving the current revision from one state to another is called a transition. We can do this manually by setting the state when we save a piece of content, or we can schedule a time for it to happen automatically.
 
 ## Roles
 

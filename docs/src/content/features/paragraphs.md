@@ -12,7 +12,7 @@ Paragraphs are being overhauled as part of our 2025/ 2026 'Refresh' mission. Thi
 
 * removing references to 'Page Components' which has been used as an alterative name for this feature
 * improving the UX for adding and editing paragraphs
-* allowing pargraphs to be added to more places around your site
+* allowing paragraphs to be added to more places around your site
 * tidying up the list of paragraphs and making it clear what each is used for. Over time some lesser used paragraphs may be deprecated
 
 ## How to use

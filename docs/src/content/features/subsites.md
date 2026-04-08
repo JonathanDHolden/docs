@@ -20,7 +20,7 @@ To use the you need [LocalGov Subsites](https://github.com/localgovdrupal/localg
 
 A Subsite contains two content types - a Subsite Overview and a Subsite Page, and a large number of content components. Most subsites will contain a single Subsite Overview, acting as the landing page for the subsite, and multiple Subsite Pages. You will need to create the Overview before creating the Page, as the Parent field is required in order to Save the page. 
 
-Both the Subsite Overview and and Subsite Page allow flexible layouts. 
+Both the Subsite Overview and Subsite Page allow flexible layouts. 
 
 ### Banners
 
