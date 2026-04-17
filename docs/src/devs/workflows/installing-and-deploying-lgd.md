@@ -17,7 +17,7 @@ We use composer to install the project.
 Note, if you are using lando, replace the `ddev` command with `lando`.
 
 ```
-composer create-project --no-install drupal/localgov_project:^4.0  --no-install
+composer create-project drupal/localgov_project:^4.0  --no-install
 cd MY_PROJECT
 ddev start
 ddev composer install
