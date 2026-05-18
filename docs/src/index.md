@@ -11,19 +11,19 @@ heroImages:
   altText: LocalGovDrupal Microsites mission patch
 - image: /LGD-mission-transform.png
   altText: LocalGovDrupal Transform logo - tree frog
-tagline: LocalGov Drupal documentation 
+tagline: LocalGov Drupal documentation
 githubLink: https://github.com/localgovdrupal/
 githubText: Join us on GitHub
 twitterLink: https://twitter.com/localgovdrupal
 twitterText: Follow us on Twitter
 youtubeLink: https://www.youtube.com/channel/UCgOTBrkZvJwCuODRpHxZIIA
 youtubeText: Follow us on YouTube
-footer: 'LocalGov Drupal is an open source project. GPL-2.0'
+footer: 'LocalGov Drupal is an open source collaboration between UK councils and Drupal developers. Drupal is a registered trademark of Dries Buytaert.'
 ---
 
 LocalGov Drupal is an open source publishing platform that delivers a better digital experience for citizens, improves service outcomes, and saves money. [Read more (opens new window)](https://localgovdrupal.org).
 
-<hr /> 
+<hr />
 
 Here you can find all the documentation for LocalGov Drupal, from installation to configuration, theming and using the content types.
 
