@@ -8,7 +8,7 @@ const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
   title: 'LocalGov Drupal Docs',
-  description: 'LocalGov Drupal is an open source collaboration between UK councils and Drupal developers.',
+  description: 'LocalGov Drupal is an open source collaboration between UK councils and Drupal developers. Drupal is a registered trademark of Dries Buytaert.',
 
   port: 49728,
 
