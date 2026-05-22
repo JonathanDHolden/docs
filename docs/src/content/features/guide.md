@@ -32,7 +32,7 @@ In February 2025 we included two new site wide layout options for guides:
 * 'stacked' heading pattern
 * vertical list of pages within a guide
 
-See an [example on our demo site](https://demo.localgovdrupal.org/node/37/travel-passes-and-support/blue-badges/apply-blue-badge). 
+THIS LINK DOES NOT WORK See an [example on our demo site](https://demo.localgovdrupal.org/node/37/travel-passes-and-support/blue-badges/apply-blue-badge). 
 
 This change follows best practice in the NHS design system.
 
